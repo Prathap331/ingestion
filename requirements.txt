@@ -1,0 +1,11 @@
+pandas
+psutil
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+transformers
+PyMuPDF
+tokenizers
+requests
+PyMySQL
+libtorrent
